@@ -1,5 +1,5 @@
 # dsmovie
-Projeto realizado junto a Semana Spring React - Trilha profissional entre os dias 07 a 12 de março de 2022.
+Projeto realizado junto a Semana Spring React - Trilha profissional entre os dias 07 a 13 de março de 2022.
 
 # Projeto implantado na nuvem:
 https://dsmoviebarbosa.netlify.app/
