@@ -21,7 +21,7 @@ Segunda fase:
 
 Terceira fase:
   1. Integrar back end e front end;
-  2. Três pilares do React;
+  2. Três pilares do React:
     a. Componentes;
     b. Props;
     c. Estado.
